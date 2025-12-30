@@ -1,0 +1,54 @@
+com.baryabuddy.app-animation-core-release-0 C:\Users\mARC\.gradle\caches\8.12\transforms\040f05efe8820f5bebb413ae673fc12f\transformed\animation-core-release\res
+com.baryabuddy.app-savedstate-1.2.1-1 C:\Users\mARC\.gradle\caches\8.12\transforms\072e472b3e37708ff1d9291e2fd30d2a\transformed\savedstate-1.2.1\res
+com.baryabuddy.app-profileinstaller-1.3.0-2 C:\Users\mARC\.gradle\caches\8.12\transforms\15689ebce3bad9ff8113d014f05593d9\transformed\profileinstaller-1.3.0\res
+com.baryabuddy.app-runtime-release-3 C:\Users\mARC\.gradle\caches\8.12\transforms\158239f75e69afc3d8080de96076804f\transformed\runtime-release\res
+com.baryabuddy.app-core-ktx-1.12.0-4 C:\Users\mARC\.gradle\caches\8.12\transforms\2009478e4fafad9489b311a4b16f6ae0\transformed\core-ktx-1.12.0\res
+com.baryabuddy.app-lifecycle-process-2.7.0-5 C:\Users\mARC\.gradle\caches\8.12\transforms\24a84581489fbd97a4c871fb46ba3109\transformed\lifecycle-process-2.7.0\res
+com.baryabuddy.app-navigation-runtime-2.7.6-6 C:\Users\mARC\.gradle\caches\8.12\transforms\288cf2ea4c46b70dd05d088b2f865c8b\transformed\navigation-runtime-2.7.6\res
+com.baryabuddy.app-navigation-common-ktx-2.7.6-7 C:\Users\mARC\.gradle\caches\8.12\transforms\2af1e122dff4fbfbd44ca91600854ea5\transformed\navigation-common-ktx-2.7.6\res
+com.baryabuddy.app-savedstate-ktx-1.2.1-8 C:\Users\mARC\.gradle\caches\8.12\transforms\31ca6fbbf40bf1f3b264670d673ca3c4\transformed\savedstate-ktx-1.2.1\res
+com.baryabuddy.app-foundation-release-9 C:\Users\mARC\.gradle\caches\8.12\transforms\34084d29ae19da0c9f00003e318983ab\transformed\foundation-release\res
+com.baryabuddy.app-ui-tooling-preview-release-10 C:\Users\mARC\.gradle\caches\8.12\transforms\35c2cbd67a0e9ec3e3941402cd3e5331\transformed\ui-tooling-preview-release\res
+com.baryabuddy.app-lifecycle-viewmodel-compose-2.7.0-11 C:\Users\mARC\.gradle\caches\8.12\transforms\36b95dae871cfd5f8fcc2feaa0a7abc5\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.baryabuddy.app-lifecycle-viewmodel-ktx-2.7.0-12 C:\Users\mARC\.gradle\caches\8.12\transforms\45a7518fdfb7203d92423573b93ade4a\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.baryabuddy.app-lifecycle-runtime-compose-2.7.0-13 C:\Users\mARC\.gradle\caches\8.12\transforms\462588505428b1af3f2526f3be5afb78\transformed\lifecycle-runtime-compose-2.7.0\res
+com.baryabuddy.app-material3-release-14 C:\Users\mARC\.gradle\caches\8.12\transforms\4920df95be3324b72cbe0828cced508e\transformed\material3-release\res
+com.baryabuddy.app-ui-text-release-15 C:\Users\mARC\.gradle\caches\8.12\transforms\5652d8861dc9c12abf0053947b5035ca\transformed\ui-text-release\res
+com.baryabuddy.app-navigation-common-2.7.6-16 C:\Users\mARC\.gradle\caches\8.12\transforms\5972a23f1046f3470b884552066ae4aa\transformed\navigation-common-2.7.6\res
+com.baryabuddy.app-ui-unit-release-17 C:\Users\mARC\.gradle\caches\8.12\transforms\5aa258944dfa50541fdf61d6178e29df\transformed\ui-unit-release\res
+com.baryabuddy.app-sqlite-2.4.0-18 C:\Users\mARC\.gradle\caches\8.12\transforms\5d124f2734e4d026d0d1b19e75cba34e\transformed\sqlite-2.4.0\res
+com.baryabuddy.app-animation-release-19 C:\Users\mARC\.gradle\caches\8.12\transforms\6a94423f982ffd5e16d5412320d8c96d\transformed\animation-release\res
+com.baryabuddy.app-ui-geometry-release-20 C:\Users\mARC\.gradle\caches\8.12\transforms\6ef26c8310b19f2bbf5df9c3c703b92b\transformed\ui-geometry-release\res
+com.baryabuddy.app-navigation-runtime-ktx-2.7.6-21 C:\Users\mARC\.gradle\caches\8.12\transforms\795878561a8c182b849eb4068b3f12db\transformed\navigation-runtime-ktx-2.7.6\res
+com.baryabuddy.app-room-runtime-2.6.1-22 C:\Users\mARC\.gradle\caches\8.12\transforms\796222149d4091d43007ba934556bf76\transformed\room-runtime-2.6.1\res
+com.baryabuddy.app-ui-release-23 C:\Users\mARC\.gradle\caches\8.12\transforms\79fde04726d24afd4c92547ac9174e13\transformed\ui-release\res
+com.baryabuddy.app-customview-poolingcontainer-1.0.0-24 C:\Users\mARC\.gradle\caches\8.12\transforms\7bf7d3944bc2792ea86482c98a05886d\transformed\customview-poolingcontainer-1.0.0\res
+com.baryabuddy.app-lifecycle-viewmodel-savedstate-2.7.0-25 C:\Users\mARC\.gradle\caches\8.12\transforms\9be31452cd5b183947d4db3f9bbda24b\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.baryabuddy.app-ui-util-release-26 C:\Users\mARC\.gradle\caches\8.12\transforms\9c021e0b225d311baa485cf28073d6de\transformed\ui-util-release\res
+com.baryabuddy.app-core-1.12.0-27 C:\Users\mARC\.gradle\caches\8.12\transforms\9e88ab2797022a6b6e751c5f1866beb3\transformed\core-1.12.0\res
+com.baryabuddy.app-foundation-layout-release-28 C:\Users\mARC\.gradle\caches\8.12\transforms\a1ee09c3af389c319b273d9214036704\transformed\foundation-layout-release\res
+com.baryabuddy.app-room-ktx-2.6.1-29 C:\Users\mARC\.gradle\caches\8.12\transforms\a70c8c6ba8145cdd7f75001cc648ca81\transformed\room-ktx-2.6.1\res
+com.baryabuddy.app-startup-runtime-1.1.1-30 C:\Users\mARC\.gradle\caches\8.12\transforms\a9dc31b1d28df4c4f2b85b5418de92e0\transformed\startup-runtime-1.1.1\res
+com.baryabuddy.app-material-ripple-release-31 C:\Users\mARC\.gradle\caches\8.12\transforms\af8fae24bacfde7a4049c6c342b5900c\transformed\material-ripple-release\res
+com.baryabuddy.app-annotation-experimental-1.4.0-32 C:\Users\mARC\.gradle\caches\8.12\transforms\b03c7972bfbe4d68c70252a6707b42d8\transformed\annotation-experimental-1.4.0\res
+com.baryabuddy.app-activity-compose-1.8.2-33 C:\Users\mARC\.gradle\caches\8.12\transforms\b8635583e215c731f6e6f06527ac6145\transformed\activity-compose-1.8.2\res
+com.baryabuddy.app-lifecycle-runtime-ktx-2.7.0-34 C:\Users\mARC\.gradle\caches\8.12\transforms\baf534a2061a6a16dba0f8cfcaf5fe3c\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.baryabuddy.app-navigation-compose-2.7.6-35 C:\Users\mARC\.gradle\caches\8.12\transforms\c1f214df18d45863e28776409d3e45f1\transformed\navigation-compose-2.7.6\res
+com.baryabuddy.app-sqlite-framework-2.4.0-36 C:\Users\mARC\.gradle\caches\8.12\transforms\cc5efcd334369eadcc31d284e649ee6d\transformed\sqlite-framework-2.4.0\res
+com.baryabuddy.app-lifecycle-runtime-2.7.0-37 C:\Users\mARC\.gradle\caches\8.12\transforms\d07f8f2983a36ae4bae7b6df4ca95077\transformed\lifecycle-runtime-2.7.0\res
+com.baryabuddy.app-material-icons-core-release-38 C:\Users\mARC\.gradle\caches\8.12\transforms\d554d146d5ea612bd781fdef31d3adac\transformed\material-icons-core-release\res
+com.baryabuddy.app-activity-1.8.2-39 C:\Users\mARC\.gradle\caches\8.12\transforms\dac0bf58168ba0251bdb123f1c79c860\transformed\activity-1.8.2\res
+com.baryabuddy.app-lifecycle-livedata-core-2.7.0-40 C:\Users\mARC\.gradle\caches\8.12\transforms\df15fc3c1a2540cfd408819de5839f01\transformed\lifecycle-livedata-core-2.7.0\res
+com.baryabuddy.app-core-runtime-2.2.0-41 C:\Users\mARC\.gradle\caches\8.12\transforms\e79069845c8407c95eb83673a400b776\transformed\core-runtime-2.2.0\res
+com.baryabuddy.app-activity-ktx-1.8.2-42 C:\Users\mARC\.gradle\caches\8.12\transforms\ed6ddcd9488ac45798cb002dcb249763\transformed\activity-ktx-1.8.2\res
+com.baryabuddy.app-lifecycle-viewmodel-2.7.0-43 C:\Users\mARC\.gradle\caches\8.12\transforms\eda5964b5661c533aca455a658994a0f\transformed\lifecycle-viewmodel-2.7.0\res
+com.baryabuddy.app-material-icons-extended-release-44 C:\Users\mARC\.gradle\caches\8.12\transforms\f139e86ab23771aaa91b698c4cb4c23c\transformed\material-icons-extended-release\res
+com.baryabuddy.app-emoji2-1.3.0-45 C:\Users\mARC\.gradle\caches\8.12\transforms\f222b625a4784da90b0f5a414ea1dac2\transformed\emoji2-1.3.0\res
+com.baryabuddy.app-ui-graphics-release-46 C:\Users\mARC\.gradle\caches\8.12\transforms\f3bf9381726b3e54ee7fa7c378c6ed8c\transformed\ui-graphics-release\res
+com.baryabuddy.app-runtime-saveable-release-47 C:\Users\mARC\.gradle\caches\8.12\transforms\f84a640e914099bda2e7be53ada60165\transformed\runtime-saveable-release\res
+com.baryabuddy.app-resValues-48 D:\Programming\Mobile Development\Budget App\app\build\generated\res\resValues\release
+com.baryabuddy.app-packageReleaseResources-49 D:\Programming\Mobile Development\Budget App\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.baryabuddy.app-packageReleaseResources-50 D:\Programming\Mobile Development\Budget App\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.baryabuddy.app-merged_res-51 D:\Programming\Mobile Development\Budget App\app\build\intermediates\merged_res\release
+com.baryabuddy.app-main-52 D:\Programming\Mobile Development\Budget App\app\src\main\res
+com.baryabuddy.app-release-53 D:\Programming\Mobile Development\Budget App\app\src\release\res
